@@ -1,0 +1,23 @@
+{
+  "id": "feedly",
+  "name": "feedly",
+  "version": "1.0.1",
+  "description": "feedly",
+  "main": "index.js",
+  "author": "exampleman <franzplugin@example.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://feedly.com/i/my",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "hasPredefinedUrl": true,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
